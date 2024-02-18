@@ -43,9 +43,3 @@ o  Slicers
 o  Recorded Macro to clear filters
 
 
-
-
-
-
-
-https://github.com/Dipi19/Dashboard-Projects

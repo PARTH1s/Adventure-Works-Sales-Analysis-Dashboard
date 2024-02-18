@@ -1,0 +1,51 @@
+#exceldashboard 
+Hello everyone!
+I am excited to share my recent project to practice on creating dashboard using MS Excel. It is a two-page interactive dashboard.
+
+I used the AdventureWorks Sample database 
+
+Project Overview:
+
+o  Dataset consists of 6 Tables : FactInternetSales, DimProduct, DimDate, DimSalesTerritory, DimCustomer, DimGeography
+o  4 Years of transactional data 
+o  Two Page Dashboard – Time Series Analysis and Product-Customer Analysis
+
+Objective
+
+ To identify the key sales metrics and record this data in visual dashboards emphasizing on identifying the trends in profitability, top performing products and customer based on geography
+
+Key Learning
+
+·       Analyzed Year on Year profitability on key metrics like Quantity, transaction, COGS, Revenue, Profit
+·       Identified the years performing above average on a whole
+·       Identified Profit trends and percentage change over the quarter 
+·       Drilled down to Top 3 profitable months of total profit of a particular year
+·       Further drilled down Top 3 Profitable days of the week 
+·       Top 5 profitable products and customers, their contribution to the overall profit
+·       Saleability of the product
+·       Profit contribution from the expensive and less expensive product
+·       Profit distribution by colour
+·       Gender based profit breakdown
+·       Profit contribution by age group and identified the most contributing age group
+·       Top 2 location wise sales contribution through custom map visual
+
+Throughout this project, I had a chance to learn the following advanced topics in depth,
+
+·       Used PowerQuery to model and load the required data from the raw dataset. Few topics like
+o  Conditional column to categorize Weekday/Weekend, Age Groups, Expensive/less expensive
+o  Added custom column using M Codes – To fetch the Age of customers with respective to current date
+·       Used PowerPivot to create and manage relationships and created measures using DAX functions.
+o  Distinct Count | Sum | Divide | Average | CountRows 
+·       MS Excel Functions like 
+o  If and IFS | Index and Match | Max | Large | Sum
+o  Use of button and linked it to a cell and a chart
+o  Slicers
+o  Recorded Macro to clear filters
+
+
+
+
+
+
+
+https://github.com/Dipi19/Dashboard-Projects
